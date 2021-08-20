@@ -1,5 +1,6 @@
 # challenge-four
 quiz time!!! zelda style
+10 questions
 
 CRITERIA
 
